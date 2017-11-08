@@ -1,0 +1,11 @@
+Cygwin 
+The name Cygwin was created from a combination of Cygnus and Windows.
+Cygwin is an open source collection of tools that allows Unix or Linux  applications to be compiled and run on a Windows operating system from within a Linux-like interface. This capability helps developers to migrate applications from Unix or Linux to Windows-based systems, and makes it easier to support their applications running on the Windows platform. Cygwin includes a dynamic link library (DLL) and a collection of tools. The DLL serves as a Linux emulator, and the tool set provides the Linux-like development environment. (Margaret Rouse, http://searchdatacenter.techtarget.com/definition/Cygwin)
+
+
+TkDiff
+tkdiff is a graphical front end to the diff program. It provides a side-by-side view 
+of the differences between two files, along with several innovative features such as diff bookmarks and a graphical map of differences for quick navigation.(https://sourceforge.net/projects/tkdiff/) 
+
+added from Albetta abot gVim
+gVim   is a powerful, feature-rich and highly configurable text editor primarily for programmers. With gVim you can efficiently write code with syntax highlighting in many languages, and many other useful features like regular expression search and replace. https://askubuntu.com/tags/gvim/info
